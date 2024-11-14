@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Abdullah CEO & Co-Founder GradientArc [GradientArc](https://www.gradientarc.com)
+# Hi there! 👋 I'm Abdullah CEO & Co-Founder [GradientArc](https://www.gradientarc.com)
 
 <!-- 
 **AbdullahHameedKhan/AbdullahHameedKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
