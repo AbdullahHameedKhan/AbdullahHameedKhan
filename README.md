@@ -15,7 +15,7 @@ Welcome to my digital workshop! 🛠️ Here, I'm building, experimenting, and s
 - 💬 **Ask me about**: LLMs, reinforcement learning, custom TTS models, and my journey in building a **Character.ai Replica**.
 - 📫 **How to reach me**: [LinkedIn](https://pk.linkedin.com/in/abdullah-hameed-8826281a0)
 - 😄 **Pronouns**: He/Him
-- 🦄 **Fun fact**: I’m an AI engineer by day, but a secret tech wizard by night 🧙‍♂️. Currently growing my own startup alongside my work at Funsol!
+- 🦄 **Fun fact**: I’m an AI engineer by day, but a secret tech wizard by night 🧙‍♂️. Currently growing my own startup alongside my work at Ogoul!
 
 ### 🛠 Tech Stack:
 - **Languages**: Python, JavaScript
