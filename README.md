@@ -1,4 +1,4 @@
-# Hi there! 👋 Welcome to my GitHub profile!
+# Hi there! 👋 I'm Abdullah CEO & Co-Founder GradientArc [GradientArc](https://www.gradientarc.com)
 
 <!-- 
 **AbdullahHameedKhan/AbdullahHameedKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
@@ -8,7 +8,7 @@ Welcome to my digital workshop! 🛠️ Here, I'm building, experimenting, and s
 
 ### 👨‍💻 A bit about me:
 
-- 🔭 **Currently working on**: Leading **AI projects** at Funsol Technologies, with a focus on **deep learning**, **reinforcement learning**, and **advanced transformer models** like **LLMs** and **LAMs**.
+- 🔭 **Currently working on**: Leading **AI projects** at GradientArc & Ogoul Technology, with a focus on **deep learning**, **reinforcement learning**, and **advanced transformer models** like **LLMs** and **LAMs**.
 - 🌱 **Currently learning**: Continuously advancing in **MLOps** practices for efficient deployment, monitoring, and scaling of AI solutions.
 - 🤝 **Looking to collaborate on**: Innovative projects that push the boundaries of AI in fields like **NLP**, **computer vision**, and **voice cloning**.
 - 🧐 **Looking for help with**: Exploring cutting-edge techniques in **transformer architectures** and **low-latency voice models**.
